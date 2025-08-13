@@ -1,6 +1,6 @@
 # RB-Internet-Radio
 RB Internet Radio, A Radio App For Pc's, Where You Can Add More Stations Via Discord Channel : https://discord.gg/wfGj9hJtKb
-THIS APP HAS NOT BEEN FINISHED! WONT BE UPLOUDED UNTIL FINISHED
+THIS APP HAS NOT BEEN FINISHED! WONT BE UPLOADED UNTIL FINISHED
 
 problems:
 1. Server doesn't start,
